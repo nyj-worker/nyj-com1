@@ -1,0 +1,338 @@
+{
+  "total": 33559,
+  "total_emp": 55432,
+  "total_rev24_trillion": 17.526429288,
+  "top_dongs": [
+    {
+      "dong": "별내동",
+      "count": 7379,
+      "emp": 6361,
+      "rev_trillion": 2.412248795,
+      "venture": 96,
+      "lab": 84,
+      "pat": 646
+    },
+    {
+      "dong": "진접읍",
+      "count": 4059,
+      "emp": 9691,
+      "rev_trillion": 3.086516091,
+      "venture": 114,
+      "lab": 52,
+      "pat": 828
+    },
+    {
+      "dong": "다산1동",
+      "count": 2886,
+      "emp": 6103,
+      "rev_trillion": 2.214205187,
+      "venture": 58,
+      "lab": 58,
+      "pat": 464
+    },
+    {
+      "dong": "진건읍",
+      "count": 2649,
+      "emp": 4387,
+      "rev_trillion": 1.609546262,
+      "venture": 51,
+      "lab": 24,
+      "pat": 480
+    },
+    {
+      "dong": "와부읍",
+      "count": 2295,
+      "emp": 4276,
+      "rev_trillion": 1.25055978,
+      "venture": 31,
+      "lab": 28,
+      "pat": 294
+    },
+    {
+      "dong": "화도읍",
+      "count": 2190,
+      "emp": 2773,
+      "rev_trillion": 0.691799845,
+      "venture": 40,
+      "lab": 22,
+      "pat": 254
+    },
+    {
+      "dong": "다산2동",
+      "count": 1918,
+      "emp": 4472,
+      "rev_trillion": 0.832141925,
+      "venture": 39,
+      "lab": 30,
+      "pat": 263
+    },
+    {
+      "dong": "오남읍",
+      "count": 1638,
+      "emp": 3646,
+      "rev_trillion": 0.9940186,
+      "venture": 34,
+      "lab": 25,
+      "pat": 328
+    }
+  ],
+  "top_inds": [
+    {
+      "industry": "도매 및 소매업(45~47)",
+      "count": 12682,
+      "pct": 37.8,
+      "emp": 11826,
+      "rev_trillion": 6.299305142,
+      "venture": 73,
+      "lab": 42
+    },
+    {
+      "industry": "제조업(10~34)",
+      "count": 6981,
+      "pct": 20.8,
+      "emp": 19106,
+      "rev_trillion": 6.66401486,
+      "venture": 424,
+      "lab": 249
+    },
+    {
+      "industry": "부동산업(68)",
+      "count": 3323,
+      "pct": 9.9,
+      "emp": 1024,
+      "rev_trillion": 0.890835093,
+      "venture": 0,
+      "lab": 1
+    },
+    {
+      "industry": "건설업(41~42)",
+      "count": 2362,
+      "pct": 7.0,
+      "emp": 6659,
+      "rev_trillion": 1.835537317,
+      "venture": 38,
+      "lab": 36
+    },
+    {
+      "industry": "전문, 과학 및 기술 서비스업(70~73)",
+      "count": 2074,
+      "pct": 6.2,
+      "emp": 2098,
+      "rev_trillion": 0.380268122,
+      "venture": 30,
+      "lab": 38
+    },
+    {
+      "industry": "정보통신업(58~63)",
+      "count": 1470,
+      "pct": 4.4,
+      "emp": 834,
+      "rev_trillion": 0.201288634,
+      "venture": 48,
+      "lab": 43
+    }
+  ],
+  "scales": [
+    {
+      "scale": "중견기업",
+      "count": 17,
+      "emp": 4318,
+      "rev_trillion": 3.041802723
+    },
+    {
+      "scale": "중기업",
+      "count": 33217,
+      "emp": 46615,
+      "rev_trillion": 14.312097573
+    },
+    {
+      "scale": "대상아님",
+      "count": 319,
+      "emp": 4321,
+      "rev_trillion": 0.0936703
+    },
+    {
+      "scale": "대기업",
+      "count": 6,
+      "emp": 178,
+      "rev_trillion": 0.078858692
+    }
+  ],
+  "innovation_impact": {
+    "cert_count": 1532,
+    "nocert_count": 32027,
+    "avg_rev_cert_billion": 51.718887258485644,
+    "avg_rev_nocert_billion": 2.998437493364973,
+    "rev_multiplier": 17.2,
+    "avg_emp_cert": 12.8,
+    "avg_emp_nocert": 1.1,
+    "emp_multiplier": 11.5,
+    "avg_sal_cert_manwon": 4181.0,
+    "avg_sal_nocert_manwon": 4070.3
+  },
+  "financial_health": {
+    "total_disclosed": 2672,
+    "growing_rev_count": 1405,
+    "growing_rev_pct": 52.6,
+    "profit_positive_count": 2133,
+    "profit_positive_pct": 79.8
+  },
+  "employment_dynamic": {
+    "net_hire_total": 326,
+    "top_hiring_companies": [
+      {
+        "n": "(주)신한",
+        "dg": "별내동",
+        "net": 70,
+        "hi": 71,
+        "lf": 1
+      },
+      {
+        "n": "(주)빙그레",
+        "dg": "다산1동",
+        "net": 29,
+        "hi": 61,
+        "lf": 32
+      },
+      {
+        "n": "웰시스템(주)",
+        "dg": "다산1동",
+        "net": 26,
+        "hi": 30,
+        "lf": 4
+      },
+      {
+        "n": "(주)에스엠테크뉴",
+        "dg": "별내동",
+        "net": 23,
+        "hi": 23,
+        "lf": 0
+      },
+      {
+        "n": "(주)백석산업",
+        "dg": "별내동",
+        "net": 21,
+        "hi": 21,
+        "lf": 0
+      }
+    ]
+  },
+  "early_warning": {
+    "정상": 13971,
+    "미지정": 13103,
+    "유보": 3874,
+    "주의": 538,
+    "회수의문": 648,
+    "휴폐업": 471,
+    "위험": 24,
+    "관찰": 442,
+    "부도": 8,
+    "경보": 480
+  },
+  "top_rev": [
+    {
+      "n": "(주)빙그레",
+      "dg": "다산1동",
+      "ind": "식료품 제조업",
+      "rev_billion": 12587.3,
+      "emp": 1873
+    },
+    {
+      "n": "(주)일신비츠온",
+      "dg": "진접읍",
+      "ind": "도매 및 상품 중개업",
+      "rev_billion": 4955.4,
+      "emp": 628
+    },
+    {
+      "n": "(주)가나안",
+      "dg": "금곡동",
+      "ind": "가죽, 가방 및 신발 제조업",
+      "rev_billion": 4747.4,
+      "emp": 64
+    },
+    {
+      "n": "(주)푸드올마켓",
+      "dg": "화도읍남부출장소",
+      "ind": "도매 및 상품 중개업",
+      "rev_billion": 2012.9,
+      "emp": 145
+    },
+    {
+      "n": "대상건설(주)",
+      "dg": "별내동",
+      "ind": "종합 건설업",
+      "rev_billion": 1527.4,
+      "emp": 174
+    }
+  ],
+  "top_emp": [
+    {
+      "n": "(주)빙그레",
+      "dg": "다산1동",
+      "ind": "식료품 제조업",
+      "emp": 1873,
+      "rev_billion": 12587.3
+    },
+    {
+      "n": "남양주축산업협동조합",
+      "dg": "다산2동",
+      "ind": "금융업",
+      "emp": 816,
+      "rev_billion": 0.0
+    },
+    {
+      "n": "(주)대원운수",
+      "dg": "와부읍",
+      "ind": "육상운송 및 파이프라인 운송업",
+      "emp": 800,
+      "rev_billion": 964.7
+    },
+    {
+      "n": "현대병원",
+      "dg": "진접읍",
+      "ind": "보건업",
+      "emp": 642,
+      "rev_billion": 0.0
+    },
+    {
+      "n": "(주)일신비츠온",
+      "dg": "진접읍",
+      "ind": "도매 및 상품 중개업",
+      "emp": 628,
+      "rev_billion": 4955.4
+    }
+  ],
+  "top_pat": [
+    {
+      "n": "(주)다원체어스",
+      "dg": "수동면",
+      "ind": "가구 제조업",
+      "pat": 102
+    },
+    {
+      "n": "(주)빙그레",
+      "dg": "다산1동",
+      "ind": "식료품 제조업",
+      "pat": 93
+    },
+    {
+      "n": "에이치엘비제약(주)",
+      "dg": "양정동",
+      "ind": "연구개발업",
+      "pat": 81
+    },
+    {
+      "n": "(주)우드메탈",
+      "dg": "수동면",
+      "ind": "가구 제조업",
+      "pat": 73
+    },
+    {
+      "n": "(주)지온",
+      "dg": "별내동",
+      "ind": "고무 및 플라스틱제품 제조업",
+      "pat": 69
+    }
+  ]
+}
